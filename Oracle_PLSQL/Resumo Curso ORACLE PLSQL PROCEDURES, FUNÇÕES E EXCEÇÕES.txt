@@ -1,0 +1,38 @@
+1.Instalando e Configurando Ambiente:
+Instalar e configurar o Oracle;
+Como criar um novo usuário e dar privilégios de acessos;
+Como criar uma nova conexão usando este novo usuário;
+Criar as tabelas a serem usadas no curso;
+Como criar um bloco simples de PL/SQL;
+Como ver Erros de Compilação.
+
+2.Comandos de SQL no PL/SQL:
+Construir blocos de programas PL/SQL, para a inclusão de registros;
+Importância de encerrar a transação dentro do PL/SQL quando o mesmo manipular dados em tabela;
+Criar vários exemplos de PL/SQL, para alterar e excluir dados da tabela;
+Incluir funções dentro dos comandos PL/SQL;
+
+3.Procedures e Funções:
+Como criar procedures;
+Modificar uma procedure, usando o comando CREATE OR REPLACE PROCEDURE;
+O conceito de funções criação e execução.
+
+4.Condicionais e Parâmetros:
+Como usar o comando IF;
+Como passar e retornar valores através de uma procedure IN e OUT;
+Como usar uma procedure dentro de outra procedure.
+
+5.Estruturas de repetição:
+Como usar o LOOP para repetir comandos até uma condição ser satisfeita;
+Como usar o FOR.
+
+6. Acesso aos dados com Cursor:
+Como funciona um cursor;
+Que o cursor, sendo utilizado juntamente com um FOR, simplifica e muito o código PL/SQL.
+
+7. Tratando Exceções:
+O conceito de exceções;
+Como tratar exceções com erros conhecidos, existentes na documentação da Oracle;
+Como tratar exceções usando a variável do tipo Exception;
+Como tratar erros inesperados;
+Como tratar erros de usuários.
